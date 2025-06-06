@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #ffddee, #ffc0cb);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  text-align: center;
+}
+
+.container {
+  margin-top: 10%;
+}
+
+#message {
+  font-size: 2em;
+  margin: 20px;
+}
+
+#gif {
+  width: 300px;
+  height: auto;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+#nextBtn {
+  padding: 12px 24px;
+  font-size: 1em;
+  background-color: #ff69b4;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+}
